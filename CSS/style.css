@@ -1,0 +1,138 @@
+@media screen and (max-width:768px) {
+
+.section1 {
+    background:url(../images/nav.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+margin-left: -5%;
+margin-right: -10rem;
+    height:300px;
+    max-width: 100%
+    
+}
+
+.profil {
+    background-color: black;
+    text-align: center;
+    color: #9c6fac;
+    height: 250px;
+}
+.profil h2{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.description{
+    text-align: left center;
+    margin-top:30px;
+justify-content: center;
+align-items: center;
+}
+
+.formations{
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    position: relative;
+
+
+}
+.formation1{
+    box-shadow: 5px 5px 4px 0px #9C6FAC;
+   margin-bottom:30px;
+    width: 140px;
+    height: 156px;
+    left: 28px;
+    top: 1042px;
+    background: #FFFFFF;
+
+}
+.section3{
+    background-color: #9c6fac;
+    width: 100%;
+    height: 200px;
+    
+}
+.section4{
+    
+
+width: 100%;
+height: 200px;
+left: 0px;
+
+margin:0;
+background: #000000;
+}
+.section4 ul li{
+   
+    
+    width: 300px;
+    height: 22px;
+    left: 5px;
+    top: 15px;
+    
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 25px;
+
+}
+.section6{
+  
+background-color: #9c6fac;
+display: grid;
+grid-template-columns: repeat(2,auto);
+}
+.section6 p{
+    
+width: 39px;
+height: 16px;
+left: 71px;
+top: 2871px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+}
+.reference{
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    position: relative;
+    margin-bottom: 20px;
+}
+.img-ref{
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+    border-radius:100px;
+    height:50%;
+    margin-left: 20px;
+}
+.ref{
+    box-shadow: 5px 5px 4px 0px #9C6FAC;
+    margin-bottom:30px;
+     width: 140px;
+     height: 156px;
+     left: 28px;
+     top: 1042px;
+     background: #FFFFFF;
+}
+.section8{
+    background-color: black;
+}
+.footer{
+    background-color:#9c6fac;
+  height:auto;
+   
+}
+.footer-logo1{
+    margin-left: 40%;
+    
+
+}
+}
+    
