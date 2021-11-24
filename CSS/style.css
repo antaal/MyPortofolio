@@ -18,7 +18,7 @@ margin-bottom: 20px;
     background-color: black;
     text-align: center;
     color: #9c6fac;
-    height: 250px;
+    height: 300px;
 }
 .profil h2{
     text-align: center;
@@ -60,7 +60,7 @@ align-items: center;
 height: 80px;
 left: 278px;
 
-
+margin-left:60%;
 
 transform: rotate(-20.64deg);
 }
@@ -93,24 +93,11 @@ background: #000000;
 .section6{
   
 background-color: #9c6fac;
-display: grid;
-grid-template-columns: repeat(2,auto);
+position: relative;
 }
-.section6 p{
-    
-width: 39px;
-height: 16px;
-left: 71px;
-top: 2871px;
 
-font-family: Roboto;
-font-style: normal;
-font-weight: 900;
-font-size: 14px;
-line-height: 16px;
 
-color: #000000;
-}
+
 .reference{
     display: grid;
     grid-template-columns: repeat(2,auto);
@@ -158,10 +145,12 @@ color: #FFFFFF;
   margin-top:-1rem;
    
 }
-.footer-logo1{
-
-    
-
+.desktop{
+    display: none;
 }
+.photo-hello{
+    display: none;
+}
+
 }
     
