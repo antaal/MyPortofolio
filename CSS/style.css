@@ -105,7 +105,7 @@ position: relative;
     margin-bottom: 20px;
 }
 .img-ref{
-    width: 140px;
+    width: 130px;
     justify-content: center;
     align-items: center;
     box-shadow: 0px 4px 4px 0px #00000040 inset;
@@ -129,11 +129,11 @@ position: relative;
 .ref{
     box-shadow: 5px 5px 4px 0px #9C6FAC;
     margin-bottom:30px;
-     width: 140px;
+     width: 130px;
      height: 156px;
      left: 28px;
      top: 1042px;
-     margin-left: 1rem;
+     margin-left: 10px;
      background: #FFFFFF;
 }
 .reference1{
@@ -143,7 +143,7 @@ position: relative;
     margin-bottom: 20px;
 }
 .img-ref1{
-    width: 140px;
+    width: 130px;
     justify-content: center;
     align-items: center;
     box-shadow: 0px 4px 4px 0px #00000040 inset;
@@ -155,12 +155,15 @@ position: relative;
 .ref1{
     box-shadow: 5px 5px 4px 0px #9C6FAC;
     margin-bottom:30px;
-     width: 140px;
+     width: 130px;
      height: 156px;
      left: 28px;
      top: 1042px;
-     margin-left: 1rem;
+     margin-left: 10px;
      background: #FFFFFF;
+}
+.ref3{
+    display: none;
 }
 .section8{
     background-color: black;
@@ -192,6 +195,14 @@ color: #FFFFFF;
 .photo-hello{
     display: none;
 }
-
+.img-perso{
+    display: none;
+}
+.purple2{
+    display: none;
+}
+.purple{
+    display: none;
+}
 }
     
