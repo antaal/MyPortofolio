@@ -48,6 +48,10 @@ align-items: center;
     top: 1042px;
     background: #FFFFFF;
 
+
+}
+.papillon1{
+    display: none;
 }
 .section3{
     background-color: #9c6fac;
