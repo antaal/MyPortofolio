@@ -192,6 +192,10 @@ background: #000000;
     line-height: 25px;
 
 }
+.h3hello{
+    width: 50% !important;
+}
+
 .liste-qualite{
     width: 480px;
 height: 57px;
