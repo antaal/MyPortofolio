@@ -1,5 +1,8 @@
 @media screen and (max-width:768px) {
-
+    .navbar{
+        width: 100%;
+    
+    }
 .section1 {
     
     height:400px;
@@ -9,7 +12,7 @@
 }
 h3{
 height: 50px;
-width:90%;
+width:100%;
 margin: 0;
 margin-bottom: 20px;
 }
@@ -67,9 +70,7 @@ align-items: center;
 .papillon{
     width: 71px;
 height: 80px;
-left: 278px;
-
-margin-left:60%;
+margin-left:50%;
 
 transform: rotate(-20.64deg);
 }
@@ -131,7 +132,7 @@ position: relative;
     font-style: normal;
     font-weight: 900;
     font-size: 14px;
-    line-height: 16px;
+    
     
     color: #000000;
 }
@@ -165,7 +166,7 @@ position: relative;
     box-shadow: 5px 5px 4px 0px #9C6FAC;
     margin-bottom:30px;
      width: 130px;
-     height: 156px;
+     height: 200px;
      left: 28px;
      top: 1042px;
      margin-left: 10px;
